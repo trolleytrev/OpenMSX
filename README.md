@@ -37,7 +37,7 @@ OpenMSX is an open source base music set for OpenTTD.
             Windows:
               C:\My Documents (95, 98, ME)
               C:\Documents and Settings\<username>\My Documents\OpenTTD (2000, XP)
-              C:\Users\<username>\Documents\OpenTTD (Vista, 7)
+              C:\Users\<username>\Documents\OpenTTD (Vista, 7, 8, 10, 11)
           macOS:     ~/Documents/OpenTTD
           GNU/Linux: ~/.openttd
         - The OpenTTD installation directory.
@@ -187,8 +187,10 @@ Musicians:
   - mimm
 - Modern Motion
   - Kyle Timmerman (Mr.Ksoft)
-- Trolley Trev
-  - Keep on Rolling
+- Keep On Rolling
+- Driving Wheels
+- Flying Vibes
+  - Trolley Trev
 - OpenTTD journey
   - -lucas-
 
